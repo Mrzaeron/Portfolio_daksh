@@ -47,7 +47,7 @@ http://localhost:8000
 
 ## Contact
 
-- Email: daksh98149@gmail.com
+- Email: janhviyadav1337@gmail.com
 - GitHub: https://github.com/Mrzaeron
 - LinkedIn: https://www.linkedin.com/in/daksh-singla-b507a735a/
 

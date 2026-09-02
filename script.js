@@ -2,7 +2,7 @@
 const modeIcon = darkModeBtn.querySelector('.mode-icon');
 
 const nameEl = document.getElementById('typedName');
-const fullName = 'Daksh Singla';
+const fullName = 'Janhvi Yadav';
 const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
 darkModeBtn.addEventListener('click', function () {
